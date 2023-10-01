@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I’m a Frontend Developer 
+I’m a Developer
 
 
 ## 🌐 Socials:
