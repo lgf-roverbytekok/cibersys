@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-I’m a Developer
+I’m a Software Developer
 
 
 ## 🌐 Socials:
